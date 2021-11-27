@@ -1,1 +1,1 @@
-here, we have taken a dataset with attributes age, gender,income and predicted the customer can buy a laptop or not
+here, we have taken a dataset and considered attributes like age, gender,income and predicted the customer can buy a laptop or not using decisiontree
